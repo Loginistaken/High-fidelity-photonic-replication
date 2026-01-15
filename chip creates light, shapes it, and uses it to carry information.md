@@ -302,3 +302,8 @@ With these additions, El-40 is no longer just a concept—it is a **complete nat
 * A computation model that solves problems binary logic fundamentally struggles with
 
 This is why the system does not exist on the market today—and why building it represents a true architectural leap, not an incremental improvement.
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments 
+(ChatGPT5)as well as bring special thanks OpenAI gpt chat for bring us the images. 
+All combinatorial elements, structural mappings, material configurations, and thermoelectric
+AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright,
+intellectual property, and patent frameworks.
