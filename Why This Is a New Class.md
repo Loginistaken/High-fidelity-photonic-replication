@@ -16,7 +16,25 @@ hardware module that sits close to the display and translates new, efficient sig
 Instead of forcing the CPU or GPU to decode everything, the PBUA does this work once, efficiently,
 and hands finished frames straight to the screen. This approach already matches how GPUs and display 
 controllers are built today, making it a realistic, short‑term addition rather than a disruptive overhaul.
+Display-PBUA (Post-Binary Upgrade Adapter) Definition:
 
+A Display-PBUA is a hardware and firmware module integrated at the display controller level (or as a discrete module) that receives post-binary symbol streams (A–Z, 5-bit or base-26), decodes them, performs error correction, and writes the resulting frames directly to the display framebuffer with minimal latency and low CPU involvement.
+
+In simpler terms, it acts as a bridge between next-generation, post-binary, or El-40-style signal streams and conventional display hardware, ensuring that modern or legacy screens can render content correctly without requiring the host CPU or GPU to decode complex symbol streams.
+
+Key Functions:
+
+Symbol demapping (5-bit fixed or base-26 variable)
+
+Forward Error Correction (FEC) decode
+
+Frame reconstruction and depacketization
+
+DMA transfer to framebuffer / compositors
+
+Low-latency integration and power-efficient operation
+
+It is critical for backward compatibility, enabling post-binary or El-40 systems to display content on existing panels seamlessly.# Post-Binary Upgrade (PC‑ASIC‑II) — Revised for modem→screen / display‑level placement and correct symbol packing
 ---
 
 ### 3. Why El‑40 Exists Above the Adapter Layer
