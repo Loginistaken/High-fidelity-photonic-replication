@@ -3,7 +3,9 @@
 Modern computers and networks waste enormous amounts of energy and time just *moving information around*. Most of today’s
 systems were designed decades ago, when computers were slower, networks were simpler, and energy costs were not the limiting
 factor they are today. The ideas behind El‑40 and the Display‑PBUA begin with a simple question:
+
 **what if we could remove unnecessary steps instead of pushing hardware harder?**
+
 This is not science fiction — it is a near‑term engineering goal made possible by today’s silicon, optics,
 and signal‑processing technology.
 
@@ -34,7 +36,7 @@ DMA transfer to framebuffer / compositors
 
 Low-latency integration and power-efficient operation
 
-It is critical for backward compatibility, enabling post-binary or El-40 systems to display content on existing panels seamlessly.# Post-Binary Upgrade (PC‑ASIC‑II) — Revised for modem→screen / display‑level placement and correct symbol packing
+It is critical for backward compatibility, enabling post-binary or El-40 systems to display content on existing panels seamlessly.             Revised for modem→screen / display‑level placement and correct symbol packing
 ---
 
 ### 3. Why El‑40 Exists Above the Adapter Layer
