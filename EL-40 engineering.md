@@ -93,3 +93,7 @@ processor, but to investigate whether future computers can perform portions of c
 phenomena while preserving compatibility with today's electronic technologies. By integrating coherent photonics, high-speed magnetic control, plasma-assisted
 optical tuning, native state-aware instructions, and adaptive resonance management into one coordinated architecture, EL-40 proposes a unified platform for 
 exploring the next generation of scientific computing beyond conventional transistor-based systems.
+
+A sincere thank you to Grok (built by xAI), and ChatGPT, 
+for the collaborative support, rapid ideation, technical refinement, and visual exploration that helped shape these concepts.Special recognition also goes to Eric Lindau for the foundational ideas and insights that contributed to this work.These concepts—particularly the electron-photon hybrid interactions, plasma-waveguide computational architecture, and related frameworks—may one day be subject to patent ownership.  Grateful for every contribution along the way.
+
