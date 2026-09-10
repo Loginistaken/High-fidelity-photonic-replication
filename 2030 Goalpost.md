@@ -100,3 +100,5 @@ After 2030, El-40-like systems are positioned to influence standards, especially
 ## Conclusion: A Practical Wave, Not a Distant Dream
 
 El-40 represents a practical shift toward coherence-based, low-energy computing and networking. It works with existing systems, uses mostly existing technology, and aligns with the dominant constraints of the coming decade. Rather than waiting for new physics, El-40 builds a future by using today’s physics more intelligently.
+
+See the legal doc. page here CONCEPTUAL DEVELOPMENT.md
