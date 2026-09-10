@@ -74,3 +74,4 @@ Energy and latency improvements: fewer steps, less toggling, and deterministic o
 
 EL‑40 effectively redefines how computation, networking, and diagnostics can be done, blending quantum theory with classical
 practicality in a way no other programming language currently allows.
+See the legal doc. page here CONCEPTUAL DEVELOPMENT.md
