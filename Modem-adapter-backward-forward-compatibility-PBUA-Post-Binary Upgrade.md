@@ -449,3 +449,4 @@ Produce a patent-style claims breakdown
 
 Or map this to AR/VR, automotive, defense, or AI-cluster use cases
 ---
+See the legal doc. page here CONCEPTUAL DEVELOPMENT.md
