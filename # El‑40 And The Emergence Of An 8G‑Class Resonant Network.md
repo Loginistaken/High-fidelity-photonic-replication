@@ -247,8 +247,5 @@ Hybrid control, simulation, and realization tooling (Version 3)
 
 This completes the El-40 framework without overlap or contradiction:
 the architecture defines what is possible, the physics defines why it works, and Version 3 defines how it can be explored today.
-Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments 
-(ChatGPT5)as well as bring special thanks OpenAI gpt chat for bring us the images. 
-All combinatorial elements, structural mappings, material configurations, and thermoelectric
-AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright,
-intellectual property, and patent frameworks.
+
+See the legal doc. page here CONCEPTUAL DEVELOPMENT.md
