@@ -82,3 +82,4 @@ This perspective enables new architectures that scale naturally, respond instant
 El‑40 represents a shift from telling machines what to do toward creating conditions where correct behavior emerges naturally.
 It does not compete with existing networks by speed alone, but by eliminating the very sources of delay that define modern systems. 
 As a post‑packet, post‑clock architecture, El‑40 offers a realistic path toward physics‑limited, coherence‑driven computation and networking.
+See the legal doc. page here CONCEPTUAL DEVELOPMENT.md
