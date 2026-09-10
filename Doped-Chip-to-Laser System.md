@@ -170,3 +170,5 @@ Sapphire → structural stability
 Nd:YAG → high-quality mirror-like cavity / beam amplification
 
 Conceptually, this is the “best of all worlds” photonic chip — maximum replication fidelity, tunability, and stability.
+
+See the legal doc. page here CONCEPTUAL DEVELOPMENT.md
