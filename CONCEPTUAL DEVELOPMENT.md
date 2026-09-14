@@ -460,3 +460,24 @@ The High-Fidelity Photonic Replication project should therefore be understood as
 **Purpose:** Concept preservation, research, engineering development, and future proof-of-concept work
 
 **© 2026 Wiz-Dimensional / Loginistaken — Conceptual Development Record**
+### PUBLIC CONCEPT PRESENTATION — BASE44 SITE (SECOND PUBLIC RECORD)
+
+The original PBUA concept, written specifications, terminology, diagrams, system mappings, and development record were first published and conceptually developed in the associated GitHub repositories, including this repository:
+
+https://github.com/Loginistaken/Post-Binary-Ugrade-idea_chip-comp.-6GenerationNet
+
+A second public presentation of the same conceptual project has since been launched as a separate website concept at:
+
+https://post-universal-binary-architecture.base44.app/
+
+That website is a later public-facing presentation of the PBUA concept. It is not a transfer of ownership, not an assignment of intellectual property, not a joint-venture filing, and not a replacement of the GitHub development record.
+
+The Base44-hosted site is used as a presentation, prototype, and public-concept interface. Base44 is a third-party hosting and application-building platform only. Publication on Base44 does not grant Base44, Wix, or any other platform operator ownership, inventorship, authorship, partnership, or license beyond ordinary platform hosting and terms-of-service rights.
+
+The GitHub record remains the primary conceptual-development source. The Base44 site is a secondary public presentation of that concept. Naming on the Base44 site may appear as **Post Universal Binary Architecture**. That title is a public presentation name for the same PBUA / Post-Binary Upgrade Architecture project developed by **Eric C. Lindau** under the Wiz-Dimensional project framework.
+
+Any text, layout, interface copy, generated code, visual presentation, or interactive prototype appearing on the Base44 site that is derived from PBUA documentation remains part of the PBUA project record. Human-directed selection, prompting, revision, and publication of that site are attributed to Eric C. Lindau. Platform-generated code or layout assistance does not transfer ownership of the underlying PBUA concept.
+
+Public availability of the concept on GitHub, Base44, or any other website is intended to document development history and public presentation dates. It does not by itself create patent rights, trademark rights, copyright registration, trade-secret protection, or any other formal legal instrument.
+
+If the Base44 presentation and the GitHub documentation differ, the most recent human-directed PBUA documentation controlled by Eric C. Lindau should be treated as the current conceptual direction, and earlier or simplified public presentations should be treated as display versions of the same project.
